@@ -1,2 +1,3 @@
 # Titanic-data-set
 It is datascience project of EDA data set
+It is datascience project of EDA on titanic data set About the data The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.on april 15 ,1912,during her maiden voyage.the titanic sank after colliding with an an iceberg, killing 1502 out of 2224passengers and crew. this sensational tragredy shocked the international commumnity and to led better saferty regulations for ships. one of the reason that shipwreck led to such loss of life as that were not enough life boats for the passengers and crew. In this challenge we are going to complete the analysis of what sorts of people were likely to .
